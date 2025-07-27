@@ -60,10 +60,10 @@ const Index = () => {
                 priority
                 width={720}
                 height={720}
-                aria-label={"Muhammad Asif's profile picture"}
-                src="/images/muhammadasif-about.jpeg"
+                aria-label={"Estiak Hossan Arman's profile picture"}
+                src="/images/arman.jpg"
                 className="object-cover object-center rounded"
-                alt={"Muhammad Asif's profile picture"}
+                alt={"Estiak Hossan Arman's profile picture"}
               />
             </BoxReveal>
           </div>

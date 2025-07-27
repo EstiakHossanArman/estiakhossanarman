@@ -56,31 +56,31 @@ export const metadata: Metadata = {
   openGraph: {
     title: `Blog | ${siteConfig.name}`,
     description: `Explore expert insights, development guides, and tutorials from ${siteConfig.name}. Stay ahead in web development.`,
-    url: "https://muhammadasif.vercel.app/blog",
+    url: "https://estiakhossanarman.vercel.app/blog",
     type: "website",
     images: [
       {
         url: "/blog-cover.png",
         width: 1200,
         height: 630,
-        alt: "Blog by Muhammad Asif",
+        alt: "Blog by Estiak Hossan Arman",
       },
     ],
   },
   authors: [
     {
-      name: "muhammadasifcse",
+      name: "EstiakHossanArmna",
       url: "https://x.com/muhammadasifcse",
     },
   ],
-  creator: "muhammadasifcse",
+  creator: "EstiakHossanArmna",
   alternates: {
-    canonical: "https://muhammadasif.vercel.app/blog",
+    canonical: "https://estiakhossanarman.vercel.app/blog",
     types: {
       "application/rss+xml": [
         {
-          url: "https://muhammadasif.vercel.app/rss.xml",
-          title: "Muhammad Asif Blog RSS",
+          url: "https://estiakhossanarman.vercel.app/rss.xml",
+          title: "Estiak Hossan Arman Blog RSS",
         },
       ],
     },

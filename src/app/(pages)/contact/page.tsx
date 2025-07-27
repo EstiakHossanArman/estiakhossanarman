@@ -14,8 +14,8 @@ export const metadata: Metadata = {
     "google-site-verification": "755fhCCBs2v3FlIqESp5F3gm4WHRQLtJzc0qOmCGd8I",
   },
   keywords: [
-    "Contact Muhammad Asif",
-    "Hire Full Stack Developer",
+    "Contact Estiak Hossan Arman",
+    "Hire Frontend Developer",
     "Freelance Software Engineer Contact",
     "Web Developer Contact Information",
     "Freelance Web Developer Email",
@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     "AI Chatbot & NLP Developer Contact",
     "Hybrid Mobile App Development Inquiry",
     "Blockchain & Smart Contract Developer Contact",
-    "Contact Muhammad Asif Gmail: muhammadasif.cse@gmail.com",
-    "Contact Muhammad Asif Phone: 01930248584",
+    "Contact Gmail: estiakahmed858508@gmail.com",
+    "Contact Phone: 01782121012",
   ],
   icons: {
     icon: "/favicon.ico",
@@ -70,15 +70,15 @@ export const metadata: Metadata = {
   openGraph: siteConfig.openGraph,
   authors: [
     {
-      name: "muhammadasifcse",
-      url: "https://x.com/muhammadasifcse",
+      name: "EstiakHossanArmna",
+      url: "https://x.com/estiakhossanarman",
     },
   ],
-  creator: "muhammadasif-about",
+  creator: "estiak-about",
   alternates: {
-    canonical: "https://muhammadasif.vercel.app/about",
+    canonical: "https://estiakhossanarman.vercel.app/about",
     types: {
-      "application/rss+xml": [{url: "https://muhammadasif.vercel.app", title: "Muhammad Asif"}],
+      "application/rss+xml": [{url: "https://estiakhossanarman.vercel.app", title: "Estiak Hossan Arman"}],
     },
   },
 };
@@ -112,9 +112,9 @@ const Contact = () => {
               </p>
               <Link
                 className="font-bold text-secondary tracking-tight"
-                href="mailto:muhammadasif.cse@gmail.com"
+                href="mailto:estiakahmed858508@gmail.com"
               >
-                muhammadasif.cse@gmail.com
+                estiakahmed858508@gmail.com
               </Link>
             </div>
             <div>
@@ -127,7 +127,7 @@ const Contact = () => {
               </p>
               <Link
                 className="font-bold text-secondary tracking-tight"
-                href="https://wa.me/+8801930248584/?text=Hello!"
+                href="https://wa.me/+8801782121012/?text=Hello!"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -155,8 +155,8 @@ const Contact = () => {
               </div>
               <h3 className="mt-6 font-bold text-xl">Phone</h3>
               <p className="my-2.5 text-muted-foreground">Thursday-Fri from 10am to 12pm.</p>
-              <Link className="font-bold text-secondary tracking-tight" href="tel:01930248584">
-                +88 01930-248584
+              <Link className="font-bold text-secondary tracking-tight" href="tel:01782121012">
+                +88 01782-121012
               </Link>
             </div>
           </div>

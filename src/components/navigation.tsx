@@ -40,7 +40,7 @@ export default function Navigation() {
       <Navbar isBordered shouldHideOnScroll>
         <NavbarBrand as={Link} href="/">
           <AsifLogo />
-          <p className="font-bold text-inherit">ASIF</p>
+          <p className="font-bold text-inherit">ARMAN</p>
         </NavbarBrand>
         <NavbarContent className="hidden gap-4 sm:flex" justify="center">
           {navigation.map((item) => (
@@ -77,7 +77,7 @@ export default function Navigation() {
             <>
               <DrawerHeader className="flex items-center gap-1">
                 <AsifLogo />
-                <p className="font-bold text-inherit">ASIF</p>
+                <p className="font-bold text-inherit">ARMAN</p>
               </DrawerHeader>
               <DrawerBody className="w-full space-y-1">
                 {navigation.map((item) => (

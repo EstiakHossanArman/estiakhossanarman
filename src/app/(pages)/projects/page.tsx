@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "google-site-verification": "755fhCCBs2v3FlIqESp5F3gm4WHRQLtJzc0qOmCGd8I",
   },
   keywords: [
-    "Projects by Asif",
+    "Projects by Estiak Hossan Arman",
     "Full Stack Web Development Projects",
     "Next.js & Express.js Applications",
     "E-Commerce Platform Development",
@@ -53,31 +53,31 @@ export const metadata: Metadata = {
   openGraph: {
     title: `Blog | ${siteConfig.name}`,
     description: `Explore expert insights, development guides, and tutorials from ${siteConfig.name}. Stay ahead in web development.`,
-    url: "https://muhammadasif.vercel.app/blog",
+    url: "https://estiakhossanarman.vercel.app/blog",
     type: "website",
     images: [
       {
         url: "/blog-cover.png",
         width: 1200,
         height: 630,
-        alt: "Blog by Muhammad Asif",
+        alt: "Blog by Estiak Hossan Arman",
       },
     ],
   },
   authors: [
     {
-      name: "muhammadasifcse",
-      url: "https://x.com/muhammadasifcse",
+      name: "estiakhossanarman",
+      url: "https://x.com/estiakhossanarman",
     },
   ],
-  creator: "muhammadasifcse",
+  creator: "estiakhossanarman",
   alternates: {
-    canonical: "https://muhammadasif.vercel.app/blog",
+    canonical: "https://estiakhossanarman.vercel.app/blog",
     types: {
       "application/rss+xml": [
         {
-          url: "https://muhammadasif.vercel.app/rss.xml",
-          title: "Muhammad Asif Blog RSS",
+          url: "https://estiakhossanarman.vercel.app/rss.xml",
+          title: "Estiak Hossan Arman Blog RSS",
         },
       ],
     },

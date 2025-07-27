@@ -1,37 +1,37 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Muhammad Asif - Software Engineer & Full-Stack Developer",
+  name: "Estiak Hossan Arman - Software Engineer & Full-Stack Developer",
   description:
     "Expert in scalable web solutions with JavaScript, TypeScript, React, Node.js, and more. Building high-performance applications.",
-  ogImage: "https://muhammadasif.vercel.app/images/muhammadasif.png",
-  author: "Muhammad Asif",
-  email: "muhammadasif.cse@gmail.com",
-  siteUrl: "https://muhammadasif.vercel.app",
-  creator: "@muhammadasif-cse",
+  ogImage: "https://estiakhossanarman.vercel.app/images/arman.jpg",
+  author: "Estiak Hossan Arman",
+  email: "estiakahmed858508@gmail.com",
+  siteUrl: "https://estiakhossanarman.vercel.app",
+  creator: "@estiakhossanarman",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://muhammadasif.vercel.app",
-    siteName: "Muhammad Asif - Software Engineer & Full-Stack Developer",
+    url: "https://estiakhossanarman.vercel.app",
+    siteName: "Estiak Hossan Arman - Software Engineer & Full-Stack Developer",
     description:
       "Software Engineer skilled in Java, Python, JavaScript, TypeScript, React, Vue, Node.js, and cloud technologies.",
     images: [
       {
-        url: "https://muhammadasif.vercel.app/images/muhammadasif.png",
+        url: "https://estiakhossanarman.vercel.app/images/arman.jpg",
         width: 1200,
         height: 630,
-        alt: "Muhammad Asif - Software Engineer & Full-Stack Developer",
+        alt: "Estiak Hossan Arman - Software Engineer & Full-Stack Developer",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammad Asif - Software Engineer",
+    title: "Estiak Hossan Arman - Software Engineer",
     description:
       "Building scalable web applications with JavaScript, TypeScript, React, Node.js, and more.",
-    image: "https://muhammadasif.vercel.app/images/muhammadasif.png",
-    creator: "@muhammadasifcse",
+    image: "https://estiakhossanarman.vercel.app/images/arman.jpg",
+    creator: "@estiakhossanarman",
   },
   links: {
     github: "https://github.com/muhammadasif-cse",

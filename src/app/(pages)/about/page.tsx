@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "google-site-verification": "755fhCCBs2v3FlIqESp5F3gm4WHRQLtJzc0qOmCGd8I",
   },
   keywords: [
-    "Muhammad Asif Portfolio",
+    "Estiak Hossan Arman Portfolio",
     "Freelance Web Developer",
     "Full Stack Developer for Hire",
     "React Developer Fiverr",
@@ -98,11 +98,11 @@ export const metadata: Metadata = {
       url: "https://x.com/muhammadasifcse",
     },
   ],
-  creator: "muhammadasif-about",
+  creator: "estiakhossanarman-about",
   alternates: {
-    canonical: "https://muhammadasif.vercel.app/about",
+    canonical: "https://estiakhossanarman.vercel.app/about",
     types: {
-      "application/rss+xml": [{url: "https://muhammadasif.vercel.app", title: "Muhammad Asif"}],
+      "application/rss+xml": [{url: "https://estiakhossanarman.vercel.app", title: "Estiak Hossan Arman"}],
     },
   },
 };

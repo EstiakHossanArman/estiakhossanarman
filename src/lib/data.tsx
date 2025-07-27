@@ -98,31 +98,31 @@ export const socials: ISocial[] = [
   {
     id: 1,
     name: "Github",
-    href: "https://github.com/muhammadasif-cse",
+    href: "https://github.com/EstiakHossanArman",
     icon: "github",
   },
   {
     id: 2,
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/muhammadasif-cse/",
+    href: "https://www.linkedin.com/in/estiakhossanarman/",
     icon: "linkedin",
   },
   {
     id: 2,
     name: "Youtube",
-    href: "https://www.youtube.com/@muhammadasif_cse",
+    href: "https://www.youtube.com/@estiakhossanarman",
     icon: "youtube",
   },
   {
     id: 3,
     name: "Instagram",
-    href: "https://www.instagram.com/muhammadasif_cse/",
+    href: "https://www.instagram.com/estiakhossanarman/",
     icon: "instagram",
   },
   {
     id: 4,
     name: "Facebook",
-    href: "https://www.facebook.com/muhammadasif.cse",
+    href: "https://www.facebook.com/estiakhossanarman",
     icon: "facebook",
   },
 ];
@@ -299,7 +299,7 @@ export const projects: IProjects[] = [
       "Responsive design optimized for desktop & mobile users",
     ],
     liveUrl: "https://ecommerce-demo.example.com",
-    githubUrl: "https://github.com/asif/ecommerce-platform",
+    githubUrl: "https://github.com/EstiakHossanArman/ecommerce-platform",
     image: "/images/projects/muhammadasif-e-commerce-platform-mockup.jpg",
     highlightTitle: "Seamless Shopping Experience",
     highlightDescription:
@@ -320,7 +320,7 @@ export const projects: IProjects[] = [
       "Mobile-responsive UI with dark mode support",
     ],
     liveUrl: "https://chatapp.example.com",
-    githubUrl: "https://github.com/asif/chat-app",
+    githubUrl: "https://github.com/EstiakHossanArman/chat-app",
     image: "/images/projects/muhammadasif-real-time-chat-application-(chatme)-mockup.jpg",
     highlightTitle: "Instant & Secure Communication",
     highlightDescription:
@@ -341,7 +341,7 @@ export const projects: IProjects[] = [
       "SEO-friendly course pages & social media sharing",
     ],
     liveUrl: "https://elearning.example.com",
-    githubUrl: "https://github.com/asif/elearning-platform",
+    githubUrl: "https://github.com/EstiakHossanArman/elearning-platform",
     image: "/images/projects/muhammadasif-online-learning-platform-mockup.jpg",
     highlightTitle: "Interactive & Engaging Learning",
     highlightDescription:
@@ -361,7 +361,7 @@ export const projects: IProjects[] = [
       "Drafts & scheduled publishing options",
     ],
     liveUrl: "https://aiblog.example.com",
-    githubUrl: "https://github.com/asif/ai-blog-platform",
+    githubUrl: "https://github.com/EstiakHossanArman/ai-blog-platform",
     image: "/images/projects/muhammadasif-ai-assisted-writing.webp",
     highlightTitle: "AI-Assisted Writing",
     highlightDescription:
@@ -383,7 +383,7 @@ export const projects: IProjects[] = [
       "Mobile-friendly UI for seamless job searching on-the-go",
     ],
     liveUrl: "https://jobportal.example.com",
-    githubUrl: "https://github.com/asif/job-portal",
+    githubUrl: "https://github.com/EstiakHossanArman/job-portal",
     image: "/images/projects/muhammadasif-job-portal-system.webp",
     highlightTitle: "Smart Hiring Made Simple",
     highlightDescription:
@@ -408,13 +408,13 @@ export const faq: IFAQ[] = [
     icon: "user-check",
     question: "How can I get in touch with you?",
     answer:
-      "You can contact me via email at asif@example.com or connect with me on LinkedIn at linkedin.com/in/asif.",
+      "You can contact me via email at estiakahmed858508@gmail.com or connect with me on LinkedIn at linkedin.com/in/estiakhossanarman.",
   },
   {
     icon: "globe",
     question: "Do you contribute to open-source projects?",
     answer:
-      "Yes, I actively contribute to open-source projects on GitHub. You can check out my repositories at github.com/asif.",
+      "Yes, I actively contribute to open-source projects on GitHub. You can check out my repositories at github.com/EstiakHossanArman.",
   },
   {
     icon: "book-open",
@@ -433,7 +433,7 @@ export const faq: IFAQ[] = [
 export const testimonials: ITestimonial[] = [
   {
     quote:
-      '"I hired Asif to create my branding website, and he exceeded my expectations. His creativity and attention to detail amazed me. The site is very user-friendly and perfectly reflects my brand. I will always recommend him!"',
+      '"I hired Estiak to create my branding website, and he exceeded my expectations. His creativity and attention to detail amazed me. The site is very user-friendly and perfectly reflects my brand. I will always recommend him!"',
     author: "Amir Faysal",
     role: "Founder Of Thinkystorm",
     image: "/images/testimonials/amir-faysal-founder-of-thinkystorm.png",
@@ -442,7 +442,7 @@ export const testimonials: ITestimonial[] = [
   },
   {
     quote:
-      '"Working with Muhammad Asif to develop our education platform was a fantastic experience. He is highly professional and responsible with deadlines. The quality and depth of his work are commendable. We have been able to create an effective and user-friendly experience for our students through this platform."',
+      '"Working with Estiak Hossan Arman to develop our education platform was a fantastic experience. He is highly professional and responsible with deadlines. The quality and depth of his work are commendable. We have been able to create an effective and user-friendly experience for our students through this platform."',
     author: "MD. Abu Junaed Sajib",
     role: "Founder Of EduFixup",
     image: "/images/testimonials/md-abu-junaed-sajib-founder-of-edu-fixup.webp",

@@ -12,7 +12,7 @@ const Footer = () => {
         <span className="text-muted-foreground">
           &copy; 2022 - {new Date().getFullYear()}{" "}
           <Link href="/" target="_blank">
-            Muhammad Asif
+            Estiak Hossan Arman
           </Link>
           . All rights reserved.
         </span>

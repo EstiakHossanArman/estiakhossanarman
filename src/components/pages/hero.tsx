@@ -20,7 +20,7 @@ const Hero = () => {
           )}
         >
           <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-            <span>✨ Introducing Muhammad Asif</span>
+            <span>✨ Introducing Estiak Hossan Arman</span>
             <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
           </AnimatedShinyText>
         </div>
@@ -28,17 +28,17 @@ const Hero = () => {
       <div className="flex flex-col items-start justify-center gap-5 md:flex-row md:mt-20">
         <BoxReveal radius={14}>
           <Card
-            aria-label="Muhammad Asif"
+            aria-label="Estiak Hossan Arman"
             radius="lg"
             className="lg:w-[20rem] w-full h-[20rem] overflow-hidden"
             shadow="sm"
           >
             <CardBody aria-label="image body" className="overflow-hidden">
               <Image
-                aria-label="Muhammad Asif"
+                aria-label="Estiak Hossan Arman"
                 priority
                 draggable={false}
-                src="/images/muhammadasif.png"
+                src="/images/arman.jpg"
                 height={500}
                 width={500}
                 className="z-10 object-cover object-center w-full"
@@ -51,7 +51,7 @@ const Hero = () => {
         <div className="items-center justify-center max-w-lg overflow-hidden size-full">
           <BoxReveal boxColor={"#5046e6"} duration={0.5}>
             <p className="sm:text-[3.5rem] text-[2.5rem] leading-none pb-2 font-semibold">
-              Hello I’am Asif<span className="text-secondary">.</span>
+              Hello I’am Arman<span className="text-secondary">.</span>
             </p>
           </BoxReveal>
 
