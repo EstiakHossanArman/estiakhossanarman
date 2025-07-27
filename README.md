@@ -29,8 +29,8 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who loves b
 
 ## 📈 GitHub Stats
 
-![Estiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=estiakhossanarman&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estiakhossanarman&layout=compact&theme=radical)
+![Estiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstiakHossanArman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiakHossanArman&layout=compact&theme=radical)
 
 ---
 
