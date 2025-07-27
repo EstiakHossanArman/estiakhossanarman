@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Estiak Hossan Arman
 
-## Getting Started
+I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who loves building beautiful, responsive, and user-friendly web interfaces. I specialize in modern JavaScript frameworks and aim to create seamless digital experiences.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Skills & Technologies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS
+- **State Management:** Redux, Zustand, React Context API
+- **Styling:** Tailwind, Sass/SCSS, Styled-Components
+- **Tools:** Git, GitHub, VS Code, Figma, Postman
+- **Deployment:** Vercel, Netlify, Firebase Hosting
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Featured Projects
 
-## Learn More
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [🔗 Portfolio Website](https://github.com/EstiakHossanArman/portfolio) | Next.js, Tailwind | My personal portfolio built with modern stack |
+| [🔗 Todo App](https://github.com/EstiakHossanArman/todo-app) | React, Tailwind | A simple, elegant todo app with local storage |
+| [🔗 Dashboard UI](https://github.comEstiakHossanArman/dashboard-ui) | React, Chart.js, Tailwind | Admin dashboard with analytics and charts |
 
-To learn more about Next.js, take a look at the following resources:
+🔍 See all projects → [github.com/your-username?tab=repositories](https://github.com/EstiakHossanArman?tab=repositories)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📈 GitHub Stats
 
-## Deploy on Vercel
+![Estiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstiakHossanArman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiakHossanArman&layout=compact&theme=radical)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/estiak-ahmed)
+- 🌐 [Portfolio Website](https://estiakhossanarman.com) *(if any)*
+- 📧 Email: estiakahmed858508@gmail.com
+
+---
+
+_Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi._ 👋
