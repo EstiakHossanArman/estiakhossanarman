@@ -19,17 +19,17 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who loves b
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🔗 Portfolio Website](https://github.com/EstiakHossanArman/portfolio) | Next.js, Tailwind | My personal portfolio built with modern stack |
+| [🔗 Portfolio Website](https://github.com/EstiakHossanArman/portfolio) | Next.js, Tailwind | My personal portfolio built with a modern stack |
 | [🔗 Todo App](https://github.com/EstiakHossanArman/todo-app) | React, Tailwind | A simple, elegant todo app with local storage |
-| [🔗 Dashboard UI](https://github.comEstiakHossanArman/dashboard-ui) | React, Chart.js, Tailwind | Admin dashboard with analytics and charts |
+| [🔗 Dashboard UI](https://github.com/EstiakHossanArman/dashboard-ui) | React, Chart.js, Tailwind | Admin dashboard with analytics and charts |
 
-🔍 See all projects → [github.com/your-username?tab=repositories](https://github.com/EstiakHossanArman?tab=repositories)
+🔍 See all projects → [github.com/EstiakHossanArman?tab=repositories](https://github.com/EstiakHossanArman?tab=repositories)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Estiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstiakHossanArman&show_icons=true&theme=radical)
+![Estiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstiakHossanArman&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstiakHossanArman&layout=compact&theme=radical)
 
 ---
@@ -37,7 +37,7 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who loves b
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/estiak-ahmed)
-- 🌐 [Portfolio Website](https://estiakhossanarman.com) *(if any)*
+- 🌐 [Portfolio Website](https://estiakhossanarman.com)
 - 📧 Email: estiakahmed858508@gmail.com
 
 ---
